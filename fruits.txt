@@ -3,3 +3,5 @@ orange
 banana
 grape
 pear
+mango
+watermelon
