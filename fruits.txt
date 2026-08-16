@@ -2,3 +2,4 @@ apple
 orange
 banana
 grape
+pear
